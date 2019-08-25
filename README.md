@@ -1,4 +1,6 @@
-# VE Moder React Web App Boilerplate
+[![Build Status](https://travis-ci.org/vermilov/modern-frontend-react-project.svg?branch=master)](https://travis-ci.org/vermilov/modern-frontend-react-project)
+
+# VE Modern React Web App Boilerplate
 
 This project contains some boilerplate to set-up modern Rect Web APp.
 
