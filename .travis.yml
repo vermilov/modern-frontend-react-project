@@ -11,6 +11,7 @@ addons:
 
 install:
   - yarn
+  - cypress install
 
 script:
   - yarn test && yarn test:cypress
