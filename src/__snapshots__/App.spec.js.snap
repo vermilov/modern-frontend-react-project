@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App tests Snapshot renderers 1`] = `
+<div>
+  <h1>
+    My Counter
+  </h1>
+  <span>
+    <p>
+      0
+    </p>
+  </span>
+  <button
+    onClick={[Function]}
+    type="button"
+  >
+    Increment
+  </button>
+  <button
+    onClick={[Function]}
+    type="button"
+  >
+    Decrement
+  </button>
+  <h2>
+    My Async Task
+  </h2>
+  <ul />
+</div>
+`;

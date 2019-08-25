@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Counter tests Snapshot renders 1`] = `
+<span>
+  <p>
+    1
+  </p>
+</span>
+`;
